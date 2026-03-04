@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 ![Video Walkthrough](https://github.com/user-attachments/assets/0a109cf5-d58d-4315-a7d5-39eddf69a0d4)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  ezgif.com
+GIF created with ezgif.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
