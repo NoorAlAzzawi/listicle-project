@@ -27,6 +27,19 @@ The following **additional** features are implemented:
 
 - [x] Responsive grid layout for cards (auto-fit columns)
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='![ScreenRecording2026-03-04at12 02 00AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/adbe51a2-e86f-4f70-a5e6-c25303b2253f)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  ezgif.com
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
