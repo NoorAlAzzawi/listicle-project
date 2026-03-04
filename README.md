@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='![ScreenRecording2026-03-04at12 02 00AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0a109cf5-d58d-4315-a7d5-39eddf69a0d4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/user-attachments/assets/0a109cf5-d58d-4315-a7d5-39eddf69a0d4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ezgif.com
